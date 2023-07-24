@@ -7,4 +7,5 @@ Started: June '23
 Progress so far:
 
 - [x] Chapter 1.Bootstrapping your Ruby literacy
-- [ ] Chapter 2.Objects, methods, and local variables
+- [x] Chapter 2.Objects, methods, and local variables
+- [ ] Chapter 3.Organizing objects with classes
