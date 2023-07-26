@@ -1,32 +1,11 @@
 class Ticket
-  def initialize(venue)
+  attr_reader :venue, :date
+  attr_accessor :price
+  def initialize(venue, date)
     @venue = venue
+    @date = date
   end
 
-  def venue
-    @venue
-  end
-  def date=(date)
-    year, month, day = date.split('-')
-    if year.to_i > 99
-      @date = date
-    else
-      puts "Please submit the date in the format 'yyyy-mm-dd'"
-    end
-  end
-  def date
-    @date
-  end
-  def price=(amount)
-    if (amount * 100 ).to_i == amount * 100
-      @price = amount
-    else
-      puts "the price seems to be malformed"
-    end
-  end
-  def price
-    @price
-  end
   def discount(percent)
     @price = @price * (100 - percent) / 100.0
   end
