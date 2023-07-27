@@ -8,4 +8,5 @@ Progress so far:
 
 - [x] Chapter 1.Bootstrapping your Ruby literacy
 - [x] Chapter 2.Objects, methods, and local variables
-- [ ] Chapter 3.Organizing objects with classes
+- [x] Chapter 3.Organizing objects with classes
+- [ ] Chapter 4.Modules and program organization
