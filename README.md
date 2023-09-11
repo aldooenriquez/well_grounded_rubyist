@@ -10,4 +10,5 @@ Progress so far:
 - [x] Chapter 2.Objects, methods, and local variables
 - [x] Chapter 3.Organizing objects with classes
 - [x] Chapter 4.Modules and program organization
-- [ ] Chapter 5.The default object (self), scope and visibility
+- [x] Chapter 5.The default object (self), scope and visibility
+- [ ] Chapter 6.Control-flow techniques
