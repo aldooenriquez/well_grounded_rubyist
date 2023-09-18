@@ -6,9 +6,10 @@ Started: June '23
 
 Progress so far:
 
-- [x] Chapter 1.Bootstrapping your Ruby literacy
-- [x] Chapter 2.Objects, methods, and local variables
-- [x] Chapter 3.Organizing objects with classes
-- [x] Chapter 4.Modules and program organization
-- [x] Chapter 5.The default object (self), scope and visibility
-- [ ] Chapter 6.Control-flow techniques
+- [x] Chapter 1. Bootstrapping your Ruby literacy
+- [x] Chapter 2. Objects, methods, and local variables
+- [x] Chapter 3. Organizing objects with classes
+- [x] Chapter 4. Modules and program organization
+- [x] Chapter 5. The default object (self), scope and visibility
+- [x] Chapter 6. Control-flow techniques
+- [ ] Chapter 7. Built in essentials
