@@ -12,4 +12,5 @@ Progress so far:
 - [x] Chapter 4. Modules and program organization
 - [x] Chapter 5. The default object (self), scope and visibility
 - [x] Chapter 6. Control-flow techniques
-- [ ] Chapter 7. Built in essentials
+- [x] Chapter 7. Built in essentials
+- [ ] Chapter 8. Strings, symbols, and other scalar objects
