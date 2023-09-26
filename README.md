@@ -13,4 +13,5 @@ Progress so far:
 - [x] Chapter 5. The default object (self), scope and visibility
 - [x] Chapter 6. Control-flow techniques
 - [x] Chapter 7. Built in essentials
-- [ ] Chapter 8. Strings, symbols, and other scalar objects
+- [x] Chapter 8. Strings, symbols, and other scalar objects
+- [ ] Chapter 9. Collection and container objects
