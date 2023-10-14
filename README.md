@@ -16,7 +16,7 @@ Progress so far:
 - [x] Chapter 8. Strings, symbols, and other scalar objects
 - [x] Chapter 9. Collection and container objects
 - [x] Chapter 10. Collections central: Enumerable and Enumerator
-- [ ] Chapter 11. Regular expressions and regexp-based string operations
+- [x] Chapter 11. Regular expressions and regexp-based string operations
 - [ ] Chapter 12. File and I/O operations
 - [ ] Chapter 13. Object individuation
 - [ ] Chapter 14. Callable and runnable objects
