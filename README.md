@@ -17,7 +17,7 @@ Progress so far:
 - [x] Chapter 9. Collection and container objects
 - [x] Chapter 10. Collections central: Enumerable and Enumerator
 - [x] Chapter 11. Regular expressions and regexp-based string operations
-- [ ] Chapter 12. File and I/O operations
+- [x] Chapter 12. File and I/O operations
 - [ ] Chapter 13. Object individuation
 - [ ] Chapter 14. Callable and runnable objects
 - [ ] Chapter 15. Callbacks, hooks, and runtime introspection
