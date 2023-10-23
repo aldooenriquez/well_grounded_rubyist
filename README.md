@@ -19,6 +19,6 @@ Progress so far:
 - [x] Chapter 11. Regular expressions and regexp-based string operations
 - [x] Chapter 12. File and I/O operations
 - [x] Chapter 13. Object individuation
-- [ ] Chapter 14. Callable and runnable objects
+- [x] Chapter 14. Callable and runnable objects
 - [ ] Chapter 15. Callbacks, hooks, and runtime introspection
 - [ ] Chapter 16. Ruby and functional programming
