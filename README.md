@@ -20,5 +20,5 @@ Progress so far:
 - [x] Chapter 12. File and I/O operations
 - [x] Chapter 13. Object individuation
 - [x] Chapter 14. Callable and runnable objects
-- [ ] Chapter 15. Callbacks, hooks, and runtime introspection
+- [x] Chapter 15. Callbacks, hooks, and runtime introspection
 - [ ] Chapter 16. Ruby and functional programming
