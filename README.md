@@ -21,4 +21,4 @@ Progress so far:
 - [x] Chapter 13. Object individuation
 - [x] Chapter 14. Callable and runnable objects
 - [x] Chapter 15. Callbacks, hooks, and runtime introspection
-- [ ] Chapter 16. Ruby and functional programming
+- [x] Chapter 16. Ruby and functional programming
